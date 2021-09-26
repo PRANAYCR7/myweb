@@ -1,5 +1,7 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-067</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">  Hi This is Pranay kumar</h1>
+	
+	<h1 style="color: green; font-size: 40px;" align="center">  Compleated with Freestyle automation proj</h1>
 </body>
 </html>
